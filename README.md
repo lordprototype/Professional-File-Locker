@@ -11,4 +11,16 @@ to unlock files start the de-coder.cmd and enter mr.robot as User and enter pro-
 
 You can perform a lot of upgrades to it, for example hashing name-streams in .cmd files and coding them to secure it.
 
+
+
+
+# securing
+ its coders are visiable but because it is a locker program, if you wonna use it the right way, sohuld make it more secure.
+ exe.xll is '7-zip.exe' main file.
+xl.xll and x.xll are c++ codes to make CMD more graphical, you can use then by changing extension to '.exe'.
+
+
+
+
+
 have Fun and Continue Learning.
